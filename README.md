@@ -39,6 +39,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ0anNqaTAzZ3RjNGFja3N0b3M4YWJ2YzB6NXQ5eWZibzF0NWZvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/chOyZePGEHDoTSY2CA/200.webp"  />
+
+###
+
 <div align="left">
   <a href="mailto:info@dzsivokado.hu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
